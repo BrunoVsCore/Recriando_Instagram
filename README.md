@@ -5,9 +5,7 @@
 <img align="right"  alt="META"  style="border-radius:100px;" src="Instagram.png" /> 
 
   
-<pre>
-
-</pre>
+##  
 ## Como Executar Executar ?
 <p> • Execute o arquivo index.html </p>
 
