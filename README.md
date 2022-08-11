@@ -5,7 +5,7 @@
 <img align="right"  alt="META"  style="border-radius:100px;" src="Instagram.png" /> 
 
 
-## Criação de uma Pagina como a do Instagram 📷
+## Como Executar Executar ?
 
 <p> • Execute o arquivo index.html </p>
 
