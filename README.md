@@ -7,9 +7,6 @@
   
 <pre>
 
-
-
-
 </pre>
 ## Como Executar Executar ?
 <p> • Execute o arquivo index.html </p>
