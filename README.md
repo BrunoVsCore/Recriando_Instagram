@@ -3,11 +3,10 @@
 
 
 <img align="right"  alt="META"  style="border-radius:100px;" src="Instagram.png" /> 
- <br />
+<p> </P>
 
 
 ## Como Executar Executar ?
-
 <p> • Execute o arquivo index.html </p>
 
 
